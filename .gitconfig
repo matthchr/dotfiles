@@ -1,0 +1,7 @@
+[user]
+    name = Matthew Christopher
+    email = matthchr@users.noreply.github.com
+[core]
+    editor = vim
+[rebase]
+    autosquash = true
